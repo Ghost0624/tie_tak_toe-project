@@ -1,0 +1,21 @@
+button {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    border: 1px #e2e2e2 solid;
+}
+span {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    border: 1px #e2e2e2 solid;
+}
+.blue {
+    background-color: blue;
+}
+.red {
+    background-color: red;
+}
+a {
+    margin: auto;
+}
