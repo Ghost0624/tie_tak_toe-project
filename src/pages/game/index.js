@@ -101,7 +101,7 @@ const Game = () => {
 
                         block.block9 % 2 === 1 ?
 
-                            <span className="blue"></span> :
+                            <span className="blue">111111111111111</span> :
                             <span className="red"></span>
                 }
             
