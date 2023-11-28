@@ -1,0 +1,12 @@
+.char-div {
+    width: 400px;
+    background-color: #41b780;
+    margin: 5px 0px 5px 0px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.search-bar {
+    width: 400px !important;
+    margin-right: 20px;
+}
