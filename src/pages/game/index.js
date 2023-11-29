@@ -106,6 +106,7 @@ const Game = () => {
                 }
             
             </div>
+            <div>reset1</div>
         </div>
     )
 }
