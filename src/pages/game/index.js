@@ -107,6 +107,7 @@ const Game = () => {
             
             </div>
             <div>qqqqqqqq</div>
+            <div>wwwwwwwww</div>
         </div>
     )
 }
